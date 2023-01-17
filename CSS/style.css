@@ -1,0 +1,12 @@
+.header{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 45px;
+}
+header{
+    background-color: white;
+}
+
+body{
+    background-color: #f6f8f9 ;
+}
