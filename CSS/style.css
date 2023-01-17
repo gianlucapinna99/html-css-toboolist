@@ -59,6 +59,7 @@ hr{
 
 section{
     margin-left: 90px;
+    margin-bottom: 65px;
 }
 
 h2, h1{
@@ -70,3 +71,14 @@ small{
     font-size: 6px;
     vertical-align: middle;
 }
+
+dl{
+    list-style-type: none;
+}
+
+li::before {
+    content: 2713;
+    border-radius: 50%;
+    color: greenyellow;
+}
+
