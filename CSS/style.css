@@ -16,6 +16,7 @@ main{
     max-width: 70%;
     background-color: white;
     margin: 0 auto;
+    padding-bottom: 10px;
 }
 
 header{
@@ -91,7 +92,7 @@ div{
     font-size: 15px;
     font-weight: bold;
     vertical-align: middle;
-    margin-right: 15px;
+    margin-right: 7px;
 }
 
 .cross{
@@ -105,5 +106,45 @@ div{
     font-size: 15px;
     font-weight: bold;
     vertical-align: middle;
-    margin-right: 15px;
+    margin-right: 7px;
 }
+
+.tag{
+    border-radius: 18px;
+    padding: 7px 15px;
+    color: white;
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.editorial{
+ background-color: #45abea;   
+}
+
+.goals{
+    background-color: #9e75e4 ;
+}
+
+h3{
+    margin: 0px;
+}
+.recruiting{
+    background-color: #64c0a9 ;
+}
+
+.mobile{
+    background-color: #64c0a9;
+}
+
+.website{
+  background-color: #d762a0;  
+}
+
+.sales{
+    background-color: #b0c926;
+}
+
+li{
+    margin: 20px auto;
+}
+
