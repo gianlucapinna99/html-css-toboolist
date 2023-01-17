@@ -17,3 +17,36 @@ main{
     background-color: white;
     margin: 0 auto;
 }
+
+header{
+    margin-left: 20px;
+}
+
+nav{
+    margin-top: 70px;
+    border-radius: 10px 0px 0px 10px;
+}
+.button{
+    height: 45px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 25px auto 10px auto;
+    
+}
+.first-button{
+    background-color: #47adf1;
+    color: white;
+    width: 120px;
+    border: none;
+    margin-left: 90px;
+}
+
+.second-button{
+    border-color:#ced3d7;
+    background-color: white;
+    color: #ced3d7;
+    width: 150px;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 4px;
+}
