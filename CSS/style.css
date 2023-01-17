@@ -3,10 +3,17 @@
     vertical-align: middle;
     font-size: 45px;
 }
+
 header{
     background-color: white;
 }
 
 body{
     background-color: #f6f8f9 ;
+}
+
+main{
+    max-width: 70%;
+    background-color: white;
+    margin: 0 auto;
 }
