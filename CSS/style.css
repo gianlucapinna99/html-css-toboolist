@@ -60,3 +60,13 @@ hr{
 section{
     margin-left: 90px;
 }
+
+h2, h1{
+    font-family: 'Sofia Sans', sans-serif;
+    font-weight: bolder;
+}
+
+small{
+    font-size: 6px;
+    vertical-align: middle;
+}
